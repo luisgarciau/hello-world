@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T01:57:56.009Z" agent="5.0 (Windows)" etag="v0oW2i473WEsT7I6lzrK" version="14.8.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-07T02:05:17.543Z" agent="5.0 (Windows)" etag="ZRvN1PIx4JBiTU57aa_6" version="14.8.4" type="github" pages="2">
   <diagram id="FjyVBHpoQ_Tcklk_W5Ow" name="Page-1">
     <mxGraphModel dx="1200" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -281,11 +281,10 @@
         <mxCell id="sL8e4justyolf8xeCaVw-9" value="XYZ Plugin Package&#xa;+XYZ.Plugin1&#xa;+XYZ.Plugin2&#xa;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="sL8e4justyolf8xeCaVw-6">
           <mxGeometry x="295" y="170" width="150" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="sL8e4justyolf8xeCaVw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="sL8e4justyolf8xeCaVw-6" source="sL8e4justyolf8xeCaVw-12" target="sL8e4justyolf8xeCaVw-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sL8e4justyolf8xeCaVw-12" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;verticalAlign=top;" vertex="1" parent="sL8e4justyolf8xeCaVw-6">
-          <mxGeometry x="60" y="30" width="40" height="40" as="geometry" />
+        <mxCell id="sL8e4justyolf8xeCaVw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;exitX=0.5;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="sL8e4justyolf8xeCaVw-6" source="sL8e4justyolf8xeCaVw-26" target="sL8e4justyolf8xeCaVw-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="50.000000000000114" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sL8e4justyolf8xeCaVw-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="sL8e4justyolf8xeCaVw-6" source="sL8e4justyolf8xeCaVw-13" target="sL8e4justyolf8xeCaVw-15">
           <mxGeometry relative="1" as="geometry" />
@@ -313,6 +312,9 @@
         </mxCell>
         <mxCell id="sL8e4justyolf8xeCaVw-21" value="Use Plugin to Complete Task" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=none;sketch=0;fillStyle=solid;" vertex="1" parent="sL8e4justyolf8xeCaVw-6">
           <mxGeometry x="20" y="195" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sL8e4justyolf8xeCaVw-26" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=center;verticalAlign=middle;" vertex="1" parent="sL8e4justyolf8xeCaVw-6">
+          <mxGeometry x="60" y="19.850000000000023" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sL8e4justyolf8xeCaVw-19" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="MVaPHxLQMadlfwjrjZ7Z-1" source="sL8e4justyolf8xeCaVw-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
